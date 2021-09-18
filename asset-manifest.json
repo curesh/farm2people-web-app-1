@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/farm2people-web-app-1/static/css/main.31503a04.chunk.css",
-    "main.js": "/farm2people-web-app-1/static/js/main.4eae9fa5.chunk.js",
-    "main.js.map": "/farm2people-web-app-1/static/js/main.4eae9fa5.chunk.js.map",
+    "main.js": "/farm2people-web-app-1/static/js/main.a442fda5.chunk.js",
+    "main.js.map": "/farm2people-web-app-1/static/js/main.a442fda5.chunk.js.map",
     "runtime-main.js": "/farm2people-web-app-1/static/js/runtime-main.5d3ed5a9.js",
     "runtime-main.js.map": "/farm2people-web-app-1/static/js/runtime-main.5d3ed5a9.js.map",
     "static/js/2.7a557293.chunk.js": "/farm2people-web-app-1/static/js/2.7a557293.chunk.js",
@@ -51,6 +51,6 @@
     "static/js/runtime-main.5d3ed5a9.js",
     "static/js/2.7a557293.chunk.js",
     "static/css/main.31503a04.chunk.css",
-    "static/js/main.4eae9fa5.chunk.js"
+    "static/js/main.a442fda5.chunk.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "name": "farm2people-web-app",
+  "name": "farm2people-web-app-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://curesh.github.io/farm2people-web-app",
+  "homepage": "http://curesh.github.io/farm2people-web-app-1",
   "dependencies": {
     "@calblueprint/airlock": "^0.7.3",
     "@material-ui/core": "^4.11.1",
@@ -81,7 +81,8 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.23.1",
-    "eslint-plugin-react-hooks": "^4.2.0"
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "gh-pages": "^3.2.3"
   },
   "airtable-schema-generator": {
     "mode": "Auto",
